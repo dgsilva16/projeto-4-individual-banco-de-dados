@@ -9,7 +9,7 @@ A ferramenta utilizada para o projeto foi: miro free
 
 ------------------------------------------------------------------------------------------
 
-1-Existem outras entidades além dessas três? Matriculas e instrutores 
+1-Existem outras entidades além dessas três? 
 
 Sim, além das entidades relacionadas com “cursos, turmas e alunos”, outras foram colocadas para agregar as que foram solicitadas tais como “Matrículas e Instrutores”.
 
@@ -17,7 +17,7 @@ Sim, além das entidades relacionadas com “cursos, turmas e alunos”, outras 
 
 2-Quais são os principais campos e tipos? 
 
-Os campos principais são os ID's de cada entidade, ou seja, Alunos, Turmas, Cursos, Instrutor, Matricula
+Os campos principais são os ID's de cada entidade, ou seja, "Alunos, Turmas, Cursos, Instrutor, Matricula".
 
 ------------------------------------------------------------------------------------------
 
